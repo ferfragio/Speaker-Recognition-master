@@ -8,8 +8,8 @@ and Neural Networks. We use data from the Librispeech ASR corpus dataset but oth
 Python 3
 Librosa library
 Sci-kit learn library
-Librispeech ASR corupus dataset available at: http://www.openslr.org/12
- or another dataset
+Librispeech ASR corupus dataset available at: http://www.openslr.org/12  
+
  You need to download this two files from the website:  
     1- train-clean-100.tar.gz [6.3G]   (training set of 100 hours "clean" speech )  
     2- train-clean-360.tar.gz [23G]   (training set of 360 hours "clean" speech )  
