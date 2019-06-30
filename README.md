@@ -27,12 +27,11 @@ Librispeech ASR corupus dataset available at: http://www.openslr.org/12
 
 
 .
-├── data                   
-|    ├──audio  
+|-data  
+|---|-audio  
+|-------|-train-clean-100  
+|-------|-train-clean-360  
 
-|        ├──train-clean-100  
-
-|        ├──train-clean-360                    
 
 ## Running the tests
 
