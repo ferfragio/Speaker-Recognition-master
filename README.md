@@ -20,11 +20,11 @@ Librispeech ASR corupus dataset available at: http://www.openslr.org/12
 2- Create a new directory called "audio" inside the data folder.
 3- Place the "train-clean-100" and "train-clean-360" un-zipped folders in this directory.
 4- Your file structure has to be the following:
-        .
-        ├── data                   
-            ├──audio
-                ├──train-clean-100
-                ├──train-clean-360                    
+.
+├── data                   
+    ├──audio
+        ├──train-clean-100
+        ├──train-clean-360                    
 
 ## Running the tests
 
