@@ -17,28 +17,35 @@ Librispeech ASR corupus dataset available at: http://www.openslr.org/12
     
 ### Installing
 
-1- You need to install the prerequisites and to download the dataset.
-2- Create a new directory called "audio" inside the data folder.
-3- Place the "train-clean-100" and "train-clean-360" un-zipped folders in this directory.
-4- Your file structure has to be the following:
+1- You need to install the prerequisites and to download the dataset.  
+
+2- Create a new directory called "audio" inside the data folder.  
+
+3- Place the "train-clean-100" and "train-clean-360" un-zipped folders in this directory.  
+
+4- Your file structure has to be the following:  
+
 
 .
 ├── data                   
-|    ├──audio
-|        ├──train-clean-100
+|    ├──audio  
+
+|        ├──train-clean-100  
+
 |        ├──train-clean-360                    
 
 ## Running the tests
 
-To train and test the different systems, simply open the desired .py file:
+To train and test the different systems, simply open the desired .py file:  
 
-For example: GMM.py 
+For example: GMM.py  
 
-Now, set the desired number of speakers, changing the value of the "n_speakers" variable: 
+Now, set the desired number of speakers, changing the value of the "n_speakers" variable:  
 
-For example: n_speakers = 2.
+For example: n_speakers = 2.  
 
-Then, run the .py file.
+Then, run the .py file.  
+
 
 ## Authors
 
